@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en-au">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Progressive 3D Skyscraper Visualization::Portfolio Item 1::EXTN1019 2025</title>
+	<style>
+		body {
+			padding: 0;
+			margin: 0;
+			overflow: hidden;
+			font-family: Arial, Helvetica, sans-serif;
+			background-color: #000;
+		}
+	
+		#p5_loading {
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			background: #111;
+			color: #0F0;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			font-family: monospace;
+			font-size: 1.2em;
+			z-index: 1000;
+		}
+    
+    #p5_loading h2 {
+      color: #0F0;
+      text-shadow: 0 0 10px #0F0;
+      margin-bottom: 30px;
+    }
+    
+    #p5_loading p {
+      color: #0F0;
+    }
+    
+    .spinner {
+      width: 40px;
+      height: 40px;
+      border: 4px solid rgba(0, 255, 0, 0.3);
+      border-radius: 50%;
+      border-top-color: #0F0;
+      animation: spin 1s ease-in-out infinite;
+      margin: 20px;
+    }
+    
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+	</style>
+
+	<!-- this is the main p5 library (1.11.2)  Stay Tuned - version 2.0 wil be released in 2025 -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.11.2/p5.min.js"
+		integrity="sha512-1YMgn4j8cIL91s14ByDGmHtBU6+F8bWOMcF47S0cRO3QNm8SKPNexy4s3OCim9fABUtO++nJMtcpWbINWjMSzQ=="
+		crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+		<!-- this is the Tone.js sound library -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/tone/15.1.3/Tone.min.js"
+		integrity="sha512-dETazTwjZnT9M4sJ55GCokGjlSY26nSNGlcc96PuApoSDT/jX3a4lDw5og262cv1ZOOCBFCU5KixrzA8hg8uDg=="
+		crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+	<!-- here's where we include the actual sketch file -->
+	<script src="sketch.js"></script>
+</head>
+
+<body>
+	<div id="p5_loading">
+		<h2>Loading Progressive 3D Skyscraper Visualization</h2>
+		<div class="spinner"></div>
+		<p>Please wait while textures are being prepared...</p>
+	</div>
+</body>
+
+</html>

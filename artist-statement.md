@@ -1,0 +1,15 @@
+# ARTIST STATEMENT: Progressive 3D Skyscraper Visualization - A VISUAL JOURNEY THROUGH TIME
+
+My interactive artwork simply named "Progressive 3D Skyscraper Visualization" aims to be a visual history adventure on the transformation of 3D computer graphics over the past six decades. I created a 3D cityscape that shifts between five distinct rendering phases to invite viewers to experience how 3D graphics has evolved from simple wireframes to photorealistic environments.
+
+My insparation came from my fascination of how technology shapes our perception of virtual spaces. I deliberately chose urban architecture as the subject matter because cities themselves represent human technological progress which works well with my theme of rendering over time. I decided to spend as much time as possilble working out how to model the scene using code so that it would look great for my artwork. I've had lots of experience with 3D modelling and rendering as I used to work as a contractor creating 3D product advertisments in Blender so I already understood most of the technigues required to create the project.
+
+Each phase in the visualization tells a story. The green wireframes of Phase 1 creates the retro aesthetic of early computing when technology simultaneously felt primitive and futuristic. As the viewer progresses to flat shading and textures in Phase 2, objects start to gain solidity to mirror how early 3D graphics began to establish digital spaces as legitimate environments rather than mere technical demonstrations.
+
+The atmospheric effects and environmental elements introduced in Phase 3 represent a key change when 3D worlds began to feel more immersive rather than a simple representational. The rain and ambient lighting helps to set the mood and atmosphere which is essential to creating a emotional connection between the viewer and the screen.
+
+Phase 4's advanced lighting models mark the transition from technical representation to artistic expression where light is used more as a narrative tool rather than to make objects visible in a scene. Finally, the physically-based rendering of Phase 5 blurs the line between virtual and real which raisies questions about authenticity and what's actually real in a world where people cannot tell the difference anymore.
+
+By allowing viewers to transition between these rendering states I hope viewers question how our relationship with digital spaces has evolved. I also see my work as a reminder that today's cutting-edge graphics will inevitably become tomorrow's nostalgic artifacts playing on how quickly technology becomes outdated in this age.
+
+I would like to further note that the use of external sources and AI for creating this artwork was limited. My experience with software design specifically with 3D enviroments is very extensive and my aim was to try build this on my own without running to StackOverflow or ChatGPT. The only major use of AI is referenced in my research report to generate a thumbnail image, besides this I used AI to help explain formulas for some equations used specifically with lighting but the code was written at my own pace.
